@@ -15,7 +15,10 @@ a:link{
   text-decoration:none;
   color:#333;
 }
-
+a:visited{
+  text-decoration:none;
+  color:#333;
+}
 .header {
     height:120px;
     padding: 20px;
